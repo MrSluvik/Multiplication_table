@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiplication_table", "Multiplication_table\Multiplication_table.vcxproj", "{D65EAB60-CA4F-4B44-9B07-8175BA62B74C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65EAB60-CA4F-4B44-9B07-8175BA62B74C}.Debug|x64.ActiveCfg = Debug|x64
+		{D65EAB60-CA4F-4B44-9B07-8175BA62B74C}.Debug|x64.Build.0 = Debug|x64
+		{D65EAB60-CA4F-4B44-9B07-8175BA62B74C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D65EAB60-CA4F-4B44-9B07-8175BA62B74C}.Debug|x86.Build.0 = Debug|Win32
+		{D65EAB60-CA4F-4B44-9B07-8175BA62B74C}.Release|x64.ActiveCfg = Release|x64
+		{D65EAB60-CA4F-4B44-9B07-8175BA62B74C}.Release|x64.Build.0 = Release|x64
+		{D65EAB60-CA4F-4B44-9B07-8175BA62B74C}.Release|x86.ActiveCfg = Release|Win32
+		{D65EAB60-CA4F-4B44-9B07-8175BA62B74C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {033D5F6C-8282-4AA5-85DB-6B41C22DF674}
+	EndGlobalSection
+EndGlobal
